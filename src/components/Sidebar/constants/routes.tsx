@@ -37,59 +37,59 @@ const SIDEBAR_ROUTES: RouteType[] = [
         path: PATHS.ACHIEVEMENTS
       },
       {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
-        label: 'Menu 1',
-        path: PATHS.ACHIEVEMENTS
-      },
-      {
         label: 'Menu 2',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 3',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 4',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 5',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 6',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 7',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 8',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 9',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 10',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 11',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 12',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 13',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 14',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 15',
         path: PATHS.ACHIEVEMENTS
       }
     ]

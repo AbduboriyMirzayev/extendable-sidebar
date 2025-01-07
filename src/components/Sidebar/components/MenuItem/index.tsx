@@ -36,10 +36,12 @@ function SidebarMenuItem({ category }: Props) {
               <span>{route.label}</span>
             </a>
             {route.children && (
-              <ul className="ml-12 space-y-4">
+              <ul className="ml-12 space-y-4 ">
                 {route.children.map((child) => (
-                  <li key={child.label}>
-                    <a href={child.path}>{child.label}</a>
+                  <li key={child.label} className="w-full ">
+                    <a href={child.path} className="w-full block">
+                      {child.label}
+                    </a>
                   </li>
                 ))}
               </ul>
