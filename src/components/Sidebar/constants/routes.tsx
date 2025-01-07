@@ -37,6 +37,58 @@ const SIDEBAR_ROUTES: RouteType[] = [
         path: PATHS.ACHIEVEMENTS
       },
       {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
+        label: 'Menu 1',
+        path: PATHS.ACHIEVEMENTS
+      },
+      {
         label: 'Menu 2',
         path: PATHS.ACHIEVEMENTS
       }

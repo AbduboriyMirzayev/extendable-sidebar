@@ -11,7 +11,7 @@ function Sidebar() {
   });
 
   return (
-    <aside className="max-w-80 bg-white p-4 min-h-screen">
+    <aside className="max-w-80 bg-white p-4 h-screen overflow-auto">
       <input
         className="w-full border-black border mt-4 mb-8 p-2 rounded"
         placeholder="Search"
